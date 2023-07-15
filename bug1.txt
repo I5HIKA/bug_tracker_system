@@ -1,0 +1,15 @@
+DATE AND TIME : Sat Jul 15 13:38:03 2023
+BUG ID : 1
+
+BUG FILED BY: bug1.txt
+
+TYPE OF BUG: runtime error
+BUG PRIORITY: low
+
+BUG DESCRIPTION: this came due to syntax error in program
+
+DATE AND TIME: Sat Jul 15 13:38:03 2023
+BUG STATUS:IN PROCESS
+
+DATE AND TIME : Sat Jul 15 13:38:35 2023
+BUG STATUS:FIXED
